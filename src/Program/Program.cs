@@ -11,3 +11,11 @@ public class Addition
         return a + b;
     }
 }
+//Encargado de restar
+public class Substraction
+{
+    public static int Substract(int a, int b)
+    {
+        return a - b;
+    }
+}
